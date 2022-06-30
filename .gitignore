@@ -1,0 +1,17 @@
+node_modules
+sol
+.env
+a.js
+ec.js
+edge.js
+edge.ts
+peth.js
+t.js
+coverage
+coverage.json
+
+typechain
+
+#Hardhat files
+cache
+artifacts
